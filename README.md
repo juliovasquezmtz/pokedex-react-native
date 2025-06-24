@@ -1,4 +1,4 @@
-# pokedex-react
+# pokedex-react-native
 Pokedex 
 
 Como ambientar:
